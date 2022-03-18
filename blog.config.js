@@ -3,7 +3,7 @@ const BLOG = {
   author: 'HaiChao Wang',
   email: 'wilson.wang.hc@gmail.com',
   link: 'https://www.whychaos.space',
-  description: 'This gonna be an awesome website.',
+  description: '成长，学习，生活',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
